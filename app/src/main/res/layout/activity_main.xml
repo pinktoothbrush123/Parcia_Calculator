@@ -16,10 +16,10 @@
         app:layout_constraintStart_toStartOf="@+id/btn0" />
 
     <Button
-        android:id="@+id/btnPer"
+        android:id="@+id/btnEquals"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="%"
+        android:text="="
         app:layout_constraintEnd_toEndOf="@+id/btnDivide"
         app:layout_constraintTop_toTopOf="@+id/btnMult" />
 
